@@ -13,7 +13,7 @@ $|x| = \Biggl\{\ x, if x \geq 0 \Biggl\}$
 
 The same property can be applied for the value of $-x$, if $x < 0$, as shown below:
 
-$|x| = \Biggl\{\ -x, if x > 0 \Biggl\}$
+$|x| = \Biggl\{\ -x, if x < 0 \Biggl\}$
 
 
 
