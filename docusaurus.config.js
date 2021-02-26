@@ -21,6 +21,10 @@ module.exports = {
     },
   ],
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+    },
     navbar: {
       title: 'kalkadocs',
       logo: {
