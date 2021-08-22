@@ -9,7 +9,7 @@ sidebar_label: Installing Java
 :::tip
 This step is only necessary if you do not have Java installed.  
 You can check if Java is installed by running `java -version`  
-If you already have **Java 64-bit** installed, feel free to move on to the [installation guide](/docs/wolfpack/wolfpack-odin/install).
+If you already have **Java 64-bit** installed, feel free to move on to the [installation guide](/docs/wolfpack/odin/install).
 :::
 
 1. Download Java from the official website. You should only be required to download the **(64-bit)** version. Do not install 32-bit Java.

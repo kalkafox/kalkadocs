@@ -21,3 +21,12 @@ Once imported, you may feel free to double-click the instance and allow the requ
 For Linux/macOS users: If you are not using Windows as your main operating system, you will need to **Edit Instance**, select **Settings** and replace the beginning part of `update.bat` on the **Pre-launch command** to be something like `python3 update.py` or whatever Python 3 is set to as your $PATH.
 :::
 
+### A Disclaimer About OptiFine
+
+In recent versions, this modpack has been tested with **OptiFine_1.16.5_HD_U_G8**. Visually, it seems to have some FPS improvements, but there are a number of reasons why the mod is not included by default:
+- OptiFine increases the modpack load time by about a 30% margin (To put that to scale, in general, without OptiFine loaded, the modpack loads in 2 minutes. After installing OptiFine, the modpack load time is increased to **5 minutes.**)
+- It tends to have visual conflicts with some mods
+
+One of the pros I can say about OptiFine is that it does stabilize FPS quite some, but the cost of waiting longer for better performance is a gray area I'd rather not mess with in terms of the main upstream of the modpack. If you want to add it, by all means, but I will not offer support on a modpack that has OptiFine installed.
+
+

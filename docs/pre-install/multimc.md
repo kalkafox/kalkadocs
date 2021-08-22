@@ -9,7 +9,7 @@ sidebar_label: Installing MultiMC
 ![multimc](/img/multimc.png)
 
 :::tip
-Already have MultiMC? Feel free to move on to the [installation guide](/docs/wolfpack/wolfpack-odin/install).
+Already have MultiMC? Feel free to move on to the [installation guide](/docs/wolfpack/odin/install).
 :::
 
 1. With this modpack, we will be using MultiMC as it is the most modular, flexible and lightweight solution for distributing modpacks. That being said, head over to the [MultiMC](https://multimc.org/#Download) download page and select the version catered to your operating system.
